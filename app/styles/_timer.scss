@@ -1,5 +1,5 @@
 h3 {
-  font-size: 10rem;
+  font-size: 7rem;
   font-weight: 200;
 }
 
@@ -13,6 +13,7 @@ h3 {
   border: none;
   border-radius: 1rem;
   margin-top: 2rem;
+  padding: 1rem;
 }
 
 .btn {
@@ -24,4 +25,12 @@ hr {
   width: 80%;
   border: 1px solid whitesmoke;
   margin-top: 4rem;
+}
+
+.fa-tree {
+  margin: 1.5rem;
+}
+
+.fa-times-circle {
+  padding-top: 25px;
 }
