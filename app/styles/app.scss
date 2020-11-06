@@ -1,1 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;1,200;1,400&display=swap");
+
+body {
+  background: linear-gradient(to top, #067575, #0cacac);
+  height: 100vh;
+  color: whitesmoke;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
 @import "./header";
+
+@import "./timer";

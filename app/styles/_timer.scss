@@ -1,0 +1,27 @@
+h3 {
+  font-size: 10rem;
+  font-weight: 200;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background-color: rgba($color: #999999, $alpha: 0.5);
+  border: none;
+  border-radius: 1rem;
+  margin-top: 2rem;
+}
+
+.btn {
+  border-radius: 2rem;
+  margin: 2rem;
+}
+
+hr {
+  width: 80%;
+  border: 1px solid whitesmoke;
+  margin-top: 4rem;
+}
